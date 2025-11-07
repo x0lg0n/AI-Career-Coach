@@ -17,7 +17,7 @@ We take the security of AI Career Coach seriously. If you discover a security vu
 
 **DO NOT** open a public issue for security vulnerabilities. Instead:
 
-1. **Email us directly** at: [security@yourproject.com](mailto:security@yourproject.com)
+1. **Email us directly** at: [security@aicareercoach.com](mailto:security@aicareercoach.com)
 2. **Include the following information:**
    - Description of the vulnerability
    - Steps to reproduce the issue
@@ -125,7 +125,7 @@ We believe in recognizing security researchers who help us improve our security:
 
 In case of an active security incident:
 
-1. **Immediate Action**: Contact us at [security@yourproject.com](mailto:security@yourproject.com)
+1. **Immediate Action**: Contact us at [security@aicareercoach.com](mailto:security@aicareercoach.com)
 2. **Assessment**: We'll assess the severity and impact
 3. **Mitigation**: Implement immediate fixes if needed
 4. **Communication**: Notify affected users if necessary
@@ -133,10 +133,9 @@ In case of an active security incident:
 
 ### 📞 Contact Information
 
-- **Security Email**: [security@yourproject.com](mailto:security@yourproject.com)
-- **General Contact**: [contact@yourproject.com](mailto:contact@yourproject.com)
-- **Maintainer**: [@siddhartha](https://github.com/siddhartha)
-
+- **Security Email**: [security@aicareercoach.com](mailto:security@aicareercoach.com)
+- **General Contact**: [contact@aicareercoach.com](mailto:contact@aicareercoach.com)
+- **Maintainer**: [@actualmaintainer](https://github.com/actualmaintainer)
 ---
 
 **Thank you for helping keep AI Career Coach secure!** 🛡️

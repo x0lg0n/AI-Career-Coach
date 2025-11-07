@@ -38,10 +38,6 @@
 - **Industry Insights** with real-time salary data and market trends
 - **Career Progress Tracking** with personalized dashboards and goal setting
 
-### 🎥 Demo
-
-**[Watch the Full Tutorial](https://youtu.be/UbXpRv5ApKA)** - Complete walkthrough of building this application
-
 ## ✨ Features
 
 ### 🤖 AI-Powered Tools
@@ -134,7 +130,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/ai-career-coach.git
+   git clone https://github.com/x0lg0n/ai-career-coach.git
    cd ai-career-coach
    ```
 
