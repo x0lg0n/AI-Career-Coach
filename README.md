@@ -2,6 +2,10 @@
 
 > **Transform your career with AI-powered guidance, personalized coaching, and intelligent tools for professional success.**
 
+<p align="center">
+  <img src="public/Banner.png" alt="AI Career Coach Banner" width="100%" />
+</p>
+
 [![Next.js](https://img.shields.io/badge/Next.js-15.1.4-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19.0.0-blue?style=for-the-badge&logo=react)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-Ready-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
@@ -130,8 +134,8 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/x0lg0n/ai-career-coach.git
-   cd ai-career-coach
+   git clone https://github.com/x0lg0n/AI-Career-Coach.git
+   cd AI-Career-Coach
    ```
 
 2. **Install dependencies**
